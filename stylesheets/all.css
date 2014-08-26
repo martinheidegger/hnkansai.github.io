@@ -218,7 +218,8 @@ img {
   position: relative;
   overflow: hidden;
   margin-bottom: 20px;
-  padding: 0 10px; }
+  padding: 0 10px;
+  max-height: 240px; }
   /* line 228, /Users/sacha/Dev/hnkansai.github.io/source/stylesheets/all.scss */
   .gallery-img .caption {
     pointer-events: none; }
